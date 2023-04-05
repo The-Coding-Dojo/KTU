@@ -19,9 +19,9 @@ Coding Dojo is a place where people practice programming by doing a programming 
 
 ## Flow
 
-00:00:00 - Introduction to a problem / Dojo
-00:15:00 - Coding
-01:45:00 - Retro
+- 00:00:00 - Introduction to a problem / Dojo
+- 00:15:00 - Coding
+- 01:45:00 - Retro
 
 ### Coding
 
